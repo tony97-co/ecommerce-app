@@ -25,10 +25,10 @@
  "></i><span
                 class="hide-menu">Proudact</span></a>
         <ul aria-expanded="false" class="collapse  first-level">
-            <li class="sidebar-item"><a href="/specialties/create" class="sidebar-link"><i
+            <li class="sidebar-item"><a href="/" class="sidebar-link"><i
                         class="mdi mdi-plus-box-outline"></i><span class="hide-menu">  Add Proudact
                     </span></a></li>
-            <li class="sidebar-item"><a href="/specialties" class="sidebar-link"><i
+            <li class="sidebar-item"><a href="/" class="sidebar-link"><i
                         class="mdi mdi-tshirt-v"></i><span class="hide-menu">  All Proudacts
                     </span></a></li>
         </ul>
@@ -47,7 +47,7 @@
             class="hide-menu">Banners</span></a></li>
 
      <li class="sidebar-item"> <a class="sidebar-link waves-effect waves-dark sidebar-link"
-                href="/brands" aria-expanded="false"><i class="mdi mdi-view-dashboard"></i><span
+                href="/brands" aria-expanded="false"><i class="mdi mdi-apple"></i><span
               class="hide-menu">Brands</span></a></li>
 
         <li class="sidebar-item"> <a class="sidebar-link has-arrow waves-effect waves-dark"
@@ -55,16 +55,14 @@
                     class="hide-menu">reports </span></a>
             <ul aria-expanded="false" class="collapse  first-level">
                 <li class="sidebar-item"><a href="/superAadmin/clinics/report" class="sidebar-link"><i
-                            class="mdi mdi-chart-line"></i><span class="hide-menu">  Clinics
+                            class="mdi mdi-cart"></i><span class="hide-menu">  Orders
                         </span></a></li>
                 <li class="sidebar-item"><a href="/superAadmin/doctors/report" class="sidebar-link"><i
-                            class="mdi mdi-chart-line"></i><span class="hide-menu"> Doctors
+                            class="mdi mdi-tshirt-v"></i><span class="hide-menu"> Proudact
                              </span></a></li>
-             <li class="sidebar-item"><a href="/superAadmin/patients/report" class="sidebar-link"><i
-                                class="mdi mdi-chart-line"></i><span class="hide-menu"> patients
-                                 </span></a></li>
+           
             <li class="sidebar-item"><a href="/superAadmin/interviews/report" class="sidebar-link"><i
-                              class="mdi mdi-chart-line"></i><span class="hide-menu"> Reservations
+                              class="mdi  mdi-account-multiple"></i><span class="hide-menu"> Customers
                                      </span></a></li>
             </ul>
         </li>
