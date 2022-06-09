@@ -39,7 +39,7 @@
             class="hide-menu">Customers</span></a></li>
 
      <li class="sidebar-item"> <a class="sidebar-link waves-effect waves-dark sidebar-link"
-                href="/home" aria-expanded="false"><i class="mdi mdi-cart"></i><span
+                href="/orders" aria-expanded="false"><i class="mdi mdi-cart"></i><span
                     class="hide-menu">Orders</span></a></li>
 
      <li class="sidebar-item"> <a class="sidebar-link waves-effect waves-dark sidebar-link"

@@ -6,6 +6,8 @@ use App\Http\Controllers\bannersController;
 use App\Http\Controllers\subCategoriesController;
 use App\Http\Controllers\brandsController;
 use App\Http\Controllers\customerController;
+use App\Http\Controllers\ordersController;
+
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -28,7 +30,8 @@ Route::resource('/sub-categories', subCategoriesController::class);
 Route::resource('/brands', brandsController::class);
 //banners
 Route::resource('/banners', bannersController::class);
-
+//orders
+Route::resource('/orders', ordersController::class);
 //coustomers
 
 Route::get('/customers',[customerController::class,'index']);

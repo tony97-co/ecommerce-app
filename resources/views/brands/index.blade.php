@@ -22,12 +22,12 @@
 
 
 <!-- Button trigger modal -->
-<button type="button" style="margin-left : 900px;" class="btn btn-primary mb-1 " data-bs-toggle="modal" data-bs-target="#exampleModal">Add New Brand <i class=" fas fa-plus-circle"></i>
+<button type="button" style="margin-left : 900px;" class="btn btn-primary rounded-pill  mb-1 " data-bs-toggle="modal" data-bs-target="#exampleModal">Add New Brand <i class=" fas fa-plus-circle"></i>
 </button>
 
 <div class="col-12">
-    <div class="card">
-        <div class="card-body">
+    <div class="card ">
+        <div class="card-body ">
             <h5 class="card-title"> Brands</h5>
             <div class="table-responsive">
                 <table id="zero_config" class="table table-striped table-bordered">
